@@ -1,6 +1,6 @@
 cask "aipaste" do
-  version "0.2.3"
-  sha256 "fecb95d99fa0410c2bd1cc2c378aca2d9d3aac9fcb77401b1340ffce8e8625aa"
+  version "0.2.4"
+  sha256 "f3f4b7b99a0be13247d974b7b60833269626d838ad9b62687f65e0c341d7afca"
 
   url "https://github.com/AiPaste/AiPaste/releases/download/v#{version}/AiPaste-#{version}-macOS.zip"
   name "AiPaste"
